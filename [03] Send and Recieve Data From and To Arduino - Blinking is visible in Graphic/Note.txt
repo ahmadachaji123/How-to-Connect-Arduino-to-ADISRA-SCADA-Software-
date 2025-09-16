@@ -1,0 +1,2 @@
+The only difference between this folder and the previous one (02) is that we are using millis in the arduino code instead of delay to let the blinking action be visible on the graphics in ADISRA.
+nothing changed about the ADISRA side. 
